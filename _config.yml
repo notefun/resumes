@@ -8,6 +8,7 @@ url: "https://notefun.github.io/resumes"
 # Author
 
 author:
+  name         : "Wu Wenhan"
   avatar       : "../images/profile.png" 
   googlescholar: "https://scholar.google.com/citations?user=NBSeJLkAAAAJ&hl=en&oi=sra"
   github       : "ivyee17"
