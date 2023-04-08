@@ -25,7 +25,7 @@ Timezone: Etc/UTC
 collections:
   resumes:
     output: true
-    permalink: /resumes/:categories/:title/
+    permalink: /:categories/:title/
   
 paginate: 10
 permalink: pretty
